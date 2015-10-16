@@ -1,0 +1,7 @@
+.CodeMirror-code {
+    font-size: 16px;
+    line-height: 20px;
+}
+.CodeMirror-code pre {
+    padding: 0 20px;
+}
